@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    //MainActivity
+    <string name="tvBienbenida">Bienvenido!</string>
+    <string name="tvInicia">Inicia Sesion para continuar</string>
+    <string name="tvNamelog">Email</string>
+    <string name="tvContrasena">Contraseña</string>
+    <string name="btnIniciaSesion">Inicia Sesion</string>
+
+    //Registro
+    <string name="tvRegister">Registrate</string>
+    <string name="edRegisterName">Nombre</string>
+    <string name="edRegisterApellido">Apellido</string>
+    <string name="edRegisterCorreo">Email</string>
+    <string name="edRegisterPass">Contraseña</string>
+    <string name="btnRegister">Crear Cuenta</string>
+
+
+</resources>
